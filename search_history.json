@@ -1,0 +1,44 @@
+[
+  {
+    "satellite": "Aryabhata",
+    "sheet": "Sheet1",
+    "fields": [
+      "Technological breakthroughs"
+    ],
+    "results": {
+      "Technological breakthroughs": {
+        "answer": "Data not available",
+        "source_url": "https://www.britannica.com/biography/Aryabhata-I",
+        "trust_level": "tertiary"
+      }
+    }
+  },
+  {
+    "satellite": "GSAT-20",
+    "sheet": "Sheet2",
+    "fields": [
+      "Purpose"
+    ],
+    "results": {
+      "Purpose": {
+        "answer": "Communications",
+        "source_url": "https://en.wikipedia.org/wiki/GSAT-20",
+        "trust_level": "tertiary"
+      }
+    }
+  },
+  {
+    "satellite": "EOS-01",
+    "sheet": "Sheet1",
+    "fields": [
+      "Type of Satellite"
+    ],
+    "results": {
+      "Type of Satellite": {
+        "answer": "Earth observation",
+        "source_url": "https://www.isro.gov.in/mission_PSLV_C49_EOS_01.html",
+        "trust_level": "primary"
+      }
+    }
+  }
+]
